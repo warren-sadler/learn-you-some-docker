@@ -1,0 +1,17 @@
+{
+  "name": "learn-you-some-docker",
+  "version": "1.0.0",
+  "description": "A little repo to learn the basics of docker and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/warren-sadler/learn-you-some-docker.git",
+  "keywords": [],
+  "author": "Warren Sadler <42621284+warren-sadler@users.noreply.github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warren-sadler/learn-you-some-docker/issues"
+  },
+  "homepage": "https://github.com/warren-sadler/learn-you-some-docker#readme"
+}
